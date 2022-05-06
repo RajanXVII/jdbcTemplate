@@ -1,1 +1,1 @@
-take details from applicatin.properties regarding database name. Table name is rajan. Performed crud operations.
+Create databse world and table rajan. Add columns id(int) and country(varchar) in table rajan. Perform crud operations.
